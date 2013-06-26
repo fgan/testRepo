@@ -1,6 +1,6 @@
-function sayHiToCharles() {
+function sayHiToCHRISTINE() {
     var message = "Hi ";
-    message += "Charles!"
+    message += "CHRISTINE!"
     print (message);
 }
 
