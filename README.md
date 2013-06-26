@@ -1,3 +1,5 @@
-hisayscharles
-I'm adding a line here too
-NOTHERCHANGE
+function sayHiToCharles() {
+    var message = "Hi ";
+    message += "Charles!"
+    print (message);
+}
